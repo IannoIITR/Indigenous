@@ -19,3 +19,5 @@ $ pip install -r requirements.txt
   $ python server.py
   ```
 
+Server will collect location data of all transporters whenever available via GPS, quantity of produce at every market on a daily basis, and daily profit margins incurred by individual farmers for the specific produce.
+This data will then be used as described in the report pdf.
